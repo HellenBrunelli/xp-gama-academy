@@ -14,9 +14,6 @@ Aulas de Html:
 >Acesse: [My Store](https://hb-mystore.netlify.com/)
 
 
->Github: [Ecommerce](https://github.com/HellenBrunelli/ecommerce-gama) <br>
->Acesse: [My Store](https://hb-mystore.netlify.com/)
-
 <br>
 
 ### **Conteúdos adicionais:**
