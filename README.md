@@ -7,7 +7,7 @@
 Ao longo dessa jornada vou compartilhando minhas anotações, dicas vídeos relevantes e tudo que possa contribuir com outas pessoas interessadas.
 <br>
 
-### **Projetos desenvolvidos:**
+### **Projetos em andamento/concluídos:**
 
 Aulas de Html:
 >Github: [Ecommerce](https://github.com/HellenBrunelli/ecommerce-gama) <br>
