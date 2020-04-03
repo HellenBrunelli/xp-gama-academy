@@ -1,6 +1,6 @@
 # Gama Academy
 
-**Curso de formação Fullstack Gama Academy**
+**Curso de formação Fullstack**
 <br>
 <br>
 
