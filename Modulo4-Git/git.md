@@ -1,4 +1,5 @@
 # GIT
+Sisteme de controle de versão distribuída.
 
 **Versionamento e principais ferramentas**
 
@@ -11,9 +12,9 @@ Linux Torvald foi o criador.
 - Gitlab: é mais privado.
 
 
-**INIT ADD COMMIT**
+1º Instalar o GIT
 
-Intalar o Git
+**Comandos GIT**
 
 ***comando cria a pasta .git***
 ```
@@ -21,21 +22,26 @@ git init
 ```
 
 ***comando adicionar esse arquivo***
+Ele faz com que o git observe as alterações daquele arquivo, ele passa a ser versionado.
 ```
 git add <nome do arquivo>
 ```
 
 ***comando para adicionar na linha do tempo Commit***
+gera ponto na linha do tempo
 ```
 git commit -m"texto que explica o que foi feito no arquivo do commit"
 ```
 
 ***comando para verificar o que foi alterado***
+indentificação, autor, data dos commits e mensagem
 ```
 git log
 ```
 
 ***cmd mostra todas as alterações que foram feitas e nao comitadas***
+verificar se houve alteração de arquivo local
+mostra a branch e o arquivo modificado
 ```
 git status
 ```
@@ -43,18 +49,62 @@ git status
 ***LOG STATUS E SHOW***
 
 ***Branch***
+Linhas alternativas do tempo
+Branch é ramificação de linha temporal.
+
+Boas práticas - categorizando branch's:
+feature/
+feat/
+bug/
+release/
+root/
+
 ```
-git status
+git branch
+```
+stagin é qd vc da um add no arquivo, quando o git passa a observar seu arquivo
+
+```
+git reset
+```
+o comando acima remove da area de staging as alterações, assim vc consegue editar e subir novamente para o git.
+
+Na branch master eu vou buscar as alterações que estão em <nome da branch>. 
+```
+git merge <nome da branch>
 ```
 
+Para visualizar as alterações que foram feitas num determinado arquivo use o comando:
+```
+git show <nro do commit>
+```
+Só o git show, mostra somente o ultimo commit 
 
-***BRANCH / CHECKOUT***
+O comando abaixo lista as branch existentes
+```
+git branch
+```
+
+O comando abaixo exclui a branch
+```
+git branch -D <nome da branch>
+```
+
+## utilizando servidor remoto
+
+Subindo nossas alterações para o servidor remoto
+
+```
+git remote add origin <link do repositório.git>
+git push -u origin master
+```
+
+O README é o local de falar sobre os eu projeto e dar orientações para que outras pessoas.
 
 
-***MERGE E PUSH***
 
 
-***CLONE E PULL***
+
 
 ***GITFLOW***
 Metodologia consiste em branch principal
