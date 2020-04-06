@@ -1,5 +1,5 @@
 # GIT
-Sisteme de controle de versão distribuída.
+Sistema de controle de versão distribuída.
 
 **Versionamento e principais ferramentas**
 
@@ -100,11 +100,6 @@ git push -u origin master
 ```
 
 O README é o local de falar sobre os eu projeto e dar orientações para que outras pessoas.
-
-
-
-
-
 
 ***GITFLOW***
 Metodologia consiste em branch principal
