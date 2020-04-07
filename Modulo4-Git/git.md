@@ -18,8 +18,8 @@ Linux Torvald foi o criador.
 
 ***comando cria a pasta .git***
 
-A pasta .git fica oculta, para conseguir visualizar você pode apertar:
-No linux: ctrl + H
+A pasta .git fica oculta, para conseguir visualizar você pode apertar:<br>
+No linux: ctrl + H <br>
 No Windows é so clicar dentro da pasta com o botão direito e exibir pasta oculta. 
 ```
 git init
