@@ -33,3 +33,18 @@ https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_
 [John Green | TEDxIndianapolis](https://www.ted.com/talks/john_green_the_nerd_s_guide_to_learning_everything_online?language=pt-br) - O guia "nerd" para aprender qualquer coisa on-line
 
 [Carol Dweck](https://www.youtube.com/watch?v=1hPuRBhYoo8) - O poder de acreditar que se pode melhorar
+
+[Margaret Heffernan](https://www.ted.com/talks/margaret_heffernan_dare_to_disagree?language=pt-BR#t-745934) - Ouse discordar
+
+
+
+#### Workflow Hacks - Ferramentas de Trabalho Digital
+
+[Trello](https://blog.trello.com/br/dicas-trello)-
+[Asana](http://alexandria.marketing/como-usar-asana-para-gerenciar-equipes/)-
+[Pipefy](https://www.pipefy.com/pt-br/endeavor-melhores-praticas/)-
+[Drive](https://www.tecmundo.com.br/google-drive/102378-conheca-12-dicas-google-drive-voce-nao-sabia.htm)-
+[Calendar](https://comunidade.rockcontent.com/como-usar-o-google-calendar/)-
+[Slack](https://tecnoblog.net/250114/15-dicas-para-usar-no-slack-do-seu-time/)-
+[IFTT](https://www.bluelux.com.br/o-que-e-ifttt-como-ele-funciona/?v=19d3326f3137)-
+[Zoom](https://resultadosdigitais.com.br/agencias/tutorial-zoom/)-
