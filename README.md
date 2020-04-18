@@ -14,7 +14,7 @@ Aulas de Html:
 >Acesse: [My Store](https://hb-mystore.netlify.com/)
 
 Aulas de CSS:
->Github: [LP Covid19](https://github.com/HellenBrunelli/covid19)
+>Github: [LP Covid19](https://github.com/HellenBrunelli/covid19)<br>
 > Acesse: [LP Covid19](https://gamaacademy-covid19.netlify.app/)
 
 
