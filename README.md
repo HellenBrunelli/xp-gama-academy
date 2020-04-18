@@ -13,6 +13,10 @@ Aulas de Html:
 >Github: [Ecommerce](https://github.com/HellenBrunelli/ecommerce-gama) <br>
 >Acesse: [My Store](https://hb-mystore.netlify.com/)
 
+Aulas de CSS:
+>Github: [LP Covid19](https://github.com/HellenBrunelli/covid19)
+> Acesse: [LP Covid19](https://gamaacademy-covid19.netlify.app/)
+
 
 <br>
 
