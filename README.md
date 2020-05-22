@@ -40,6 +40,14 @@ https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_
 
 [Margaret Heffernan](https://www.ted.com/talks/margaret_heffernan_dare_to_disagree?language=pt-BR#t-745934) - Ouse discordar
 
+[Rocío Lorenzo | TED@BCG Milan](https://www.ted.com/talks/rocio_lorenzo_want_a_more_innovative_company_hire_more_women/transcript?language=pt-br) - Você quer uma empresa mais inovadora? Contrate mais mulheres
+
+[Michelle Schneider | TEDxFAAP](https://www.youtube.com/watch?v=9G5mS_OKT0A&t=656s) - O Profissional do Futuro
+
+[Murilo Gun | TEDxFortaleza](https://www.youtube.com/watch?v=WauIURFTpEc) - Escolas Matam a Aprendizagem
+
+
+
 
 
 #### Workflow Hacks - Ferramentas de Trabalho Digital
@@ -59,3 +67,9 @@ https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_
 [IFTT](https://www.bluelux.com.br/o-que-e-ifttt-como-ele-funciona/?v=19d3326f3137)
 
 [Zoom](https://resultadosdigitais.com.br/agencias/tutorial-zoom/)
+
+
+Perfil e MArketing Pessoal
+
+[Linkedin SSI](https://business.linkedin.com/sales-solutions/social-selling/the-social-selling-index-ssi)
+
