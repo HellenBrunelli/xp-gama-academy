@@ -10,17 +10,17 @@ Ao longo dessa jornada vou compartilhando minhas anotações, dicas vídeos rele
 ### **Projetos em andamento/concluídos:**
 
 Aulas de Html:
->Github: [Ecommerce](https://github.com/HellenBrunelli/ecommerce-gama) <br>
->Acesse: [My Store](https://hb-mystore.netlify.com/)
+> Github: [Ecommerce](https://github.com/HellenBrunelli/ecommerce-gama) <br>
+> Acesse: [My Store](https://hb-mystore.netlify.com/)
 
 Aulas de CSS:
->Github: [LP Covid19](https://github.com/HellenBrunelli/covid19)<br>
+> Github: [LP Covid19](https://github.com/HellenBrunelli/covid19)<br>
 > Acesse: [LP Covid19](https://gamaacademy-covid19.netlify.app/)
 
 
 <br>
 
-### **Conteúdos adicionais:**
+# **Conteúdos adicionais:**
 Abaixo vou compartilhar alguns vídeos, TED's, livros que gostei muito e que vale muito a pena compartilhar.
 
 <br>
@@ -47,10 +47,9 @@ https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_
 [Murilo Gun | TEDxFortaleza](https://www.youtube.com/watch?v=WauIURFTpEc) - Escolas Matam a Aprendizagem
 
 
+<br>
 
-
-
-#### Workflow Hacks - Ferramentas de Trabalho Digital
+# Workflow Hacks - Ferramentas 
 
 [Trello](https://blog.trello.com/br/dicas-trello)
 
@@ -68,8 +67,50 @@ https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_
 
 [Zoom](https://resultadosdigitais.com.br/agencias/tutorial-zoom/)
 
+<br>
 
-Perfil e MArketing Pessoal
 
-[Linkedin SSI](https://business.linkedin.com/sales-solutions/social-selling/the-social-selling-index-ssi)
+# Perfil e Marketing Pessoal
+
+[Visualizar Linkedin SSI](https://business.linkedin.com/sales-solutions/social-selling/the-social-selling-index-ssi) - Social Selling Index 
+
+[Linkedin](https://canaltech.com.br/redes-sociais/Ferramentas-do-Linkedin-para-melhorar-a-sua-rede-profissional/)- Como Aumentar Em 24x As Visualizações Do Seu Post no LinkedIn]
+
+[NEILPATEL](https://neilpatel.com/br/blog/visualizacoes-de-posts-no-linkedin/) - Como Aumentar Em 24x As Visualizações Do Seu Post no LinkedIn
+
+
+# Artigos
+
+[tituto Brasileiro de Coaching](https://www.ibccoaching.com.br/portal/lideranca-e-motivacao/principais-caracteristicas-bom-lider/) - AS 10 PRINCIPAIS CARACTERÍSTICAS DE UM BOM LÍDER
+
+[#2 QUAL É A MINHA VOCAÇÃO?](https://www.youtube.com/watch?v=GJAy7E3jqzE&feature=youtu.be)
+
+[Linkedin Learning](https://www.linkedin.com/learning/me)
+
+[Linkedin](https://www.linkedin.com/pulse/linkedin-lista-habilidades-mais-demandadas-pelos-em-2019-ribeiro/) - Lista as 10 habilidades mais demandadas pelos empregadores em 2019
+
+
+
+# Ferramentas de Desenvolvimento e Auto conhecimento
+
+Mandala [IKIGAI](https://www.napratica.org.br/como-mandala-ikigai-pode-ajudar-voce-encontrar-seu-proposito/)
+
+
+1- O que vc ama?
+- Pense em tudo o que vc gosta de fazer, ou gostava quando era criança
+- Temos que se perguntar porque eu gosto disso?
+
+2- O que vc faz bem?
+- coisas que vc faz bem
+- Pergunte as pessoas, peça feedback, pergunte seus pontos fortes
+
+3- O que o mundo precisa?
+- Em cada uma dessas trilhas pergunte se o mundo precisa disso?
+
+4- O que vc é pago para fazer?
+- Todas as trilhas profissionais que vc pode seguir
+- Pense na maior quantidade de trilha possivel.
+
+![Mandala Ikigai]('./ikigai.jpg')
+
 
