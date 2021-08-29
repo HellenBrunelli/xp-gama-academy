@@ -1,4 +1,4 @@
-// DESTRUCT
+// DESESTRUTURAÇÃO
 
 const pessoa = {
     nome: "Hellen",
@@ -7,7 +7,7 @@ const pessoa = {
     profissao: "Dev"
 }
 
-//SEM DESTRUCT
+//SEM DESESTRUTURAÇÃO
 
 // console.log(pessoa);
 
@@ -16,7 +16,7 @@ const pessoa = {
 // let profissao = pessoa.profissao;
 
 
-// COM DESTRUCT
+// COM DESESTRUTURAÇÃO
 //Pegue esses dados do meu objeto pessoa
 let { nome, sobrenome, idade, profissao } = pessoa;
 
