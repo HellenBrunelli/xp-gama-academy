@@ -188,7 +188,7 @@ Mantemos um código final para produção, em Develop para homologação teste o
 
 Serve para que você consiga ignorar arquivos, por exemplo:
 
-Eu criri um arquivo com minhas respostas da prova de git, mas como ela so deve ser vista por mim, eu adicionei ela no .gitignore para que você não consiga vê-la.
+Eu criei um arquivo com minhas respostas da prova de git, mas como ela so deve ser vista por mim, eu adicionei ela no .gitignore para que você não consiga vê-la.
 
 Criei um arquivo <b> .gitignore </b>
 dentro dele escrevi o nome do meu arquivo:
